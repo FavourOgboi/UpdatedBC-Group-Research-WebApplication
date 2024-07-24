@@ -13,7 +13,7 @@ Click here for more information about [Project 1](https://github.com/HSaleem352/
 2. Is smoking a factor in severe COVID-19 for individuals with Breast Cancer? - Mina
 3. Amongst all the races with different BC statuses, is smoking a factor for them to have COVID-19? - Mina
 4. How does race/ethnicity affect COVID with Breast Cancer? - Shan
-5. Does obesity and age have an effect on COVID-19 with Breast Cancer? - Fozia
+5. Does obesity and age have an effect on COVID-19 with Breast Cancer? - Fozia / Favour
 6. Are the severity of COVID-19 and the cancer status affected if the individuals live in urban, suburban, or rural areas? - Hamza
 7. What is the isolated effect of age on the risk of COVID-19 and Breast Cancer outcomes? - Dean
 
@@ -21,7 +21,7 @@ Click here for more information about [Project 1](https://github.com/HSaleem352/
 - Hamza Saleem - @HSaleem352
 - Mina Bagheri - @minalbm
 - Dean Ninalga - @Ninalgad 
-- Fozia - @FoziaY
+- Fozia/Favour - @FoziaY | @FavourOgboi
 - Shan Lian - @Lians03
 - Alejandra - @AlejandraFeatherston
 
@@ -37,7 +37,7 @@ Click here for more information about [Project 1](https://github.com/HSaleem352/
 - Question 2 related page: Mina
 - Question 3 related page: Mina
 - Question 4 related page: Shan
-- Question 5 related page: Fozia
+- Question 5 related page: Fozia | Favour
 - Question 6 related page: Hamza
 - Question 7 related page: Dean
 
